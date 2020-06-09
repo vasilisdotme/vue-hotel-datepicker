@@ -96,6 +96,7 @@
     }
 
     &__input {
+        appearance: none;
         background: transparent;
         height: 4em;
         color: $primary-text-color;
